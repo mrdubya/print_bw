@@ -1,7 +1,25 @@
-" Vim color file
-" Maintainer:   Mike Williams <mrw@eandem.co.uk>
-" Last Change:	2nd June 2003
-" Version:	1.1
+" A Black & White color scheme.
+"
+" Copyright (c) 2002-2015 Mike Williams <mrmrdubya@gmail.com>
+"
+" Permission to use, copy, modify, and distribute this software for any
+" purpose with or without fee is hereby granted, provided that the above
+" copyright notice and this permission notice appear in all copies.
+"
+" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+"
+" The color scheme is black on white and uses the font's italic and bold faces,
+" as well as underlining and reverse, to provide the file's highlighting.
+"
+" The color scheme is currently targetted for printing only, not for every day
+" editing in VIM.
+"
 
 " Remove all existing highlighting.
 set background=light

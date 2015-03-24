@@ -13,12 +13,14 @@ done via a map or a script.
 Installation
 ============
 
-Download file into your colors directory.
+The recommended approach is use
+[Pathogen](https://github.com/tpope/vim-pathogen) and to clone this plugin into
+your bundle directory.
 
 License
 =======
 
-Copyright (c) 2002-2003 Mike Williams <mrmrdubya@gmail.com>
+Copyright (c) 2002-2015 Mike Williams <mrmrdubya@gmail.com>
 
 Permission to use, copy, modify, and distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
