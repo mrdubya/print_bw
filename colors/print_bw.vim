@@ -76,6 +76,7 @@ highlight SpecialComment cterm=italic ctermfg=black ctermbg=white gui=italic gui
 " Debug defaults to Special
 
 highlight Todo          cterm=italic,bold ctermfg=black ctermbg=white gui=italic,bold guifg=black guibg=white
+highlight Underlined    cterm=italic,underline ctermfg=black ctermbg=white gui=italic,underline guifg=black guibg=white
 " Ideally, the bg color would be white but VIM cannot print white on black!
 highlight Error         cterm=bold,reverse ctermfg=black ctermbg=grey gui=bold,reverse guifg=black guibg=grey
 
